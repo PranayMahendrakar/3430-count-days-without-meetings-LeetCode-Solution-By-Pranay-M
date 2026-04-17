@@ -6,3 +6,4 @@
 - [2026-04-17T08:27:56Z] fix: handle null pointer exception
 - [2026-04-17T09:11:58Z] docs: update README with usage examples
 - [2026-04-17T08:22:49Z] refactor: clean up unused imports
+- [2026-04-17T22:37:15Z] chore: update dependencies to latest versions
